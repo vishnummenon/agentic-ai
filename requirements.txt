@@ -12,3 +12,4 @@ pgvector
 pypdf
 psycopg[binary]
 streamlit
+google-generativeai
